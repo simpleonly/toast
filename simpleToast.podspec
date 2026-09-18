@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = "simpleToast"
+  spec.name         = "SimpleOnlyToast"
   spec.version      = "1.0.0"
   spec.summary      = "Your SDK summary"
   spec.homepage     = "https://github.com/simpleonly/toast"
