@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
   spec.version      = "1.0.0"
   spec.summary      = "Your SDK summary"
   spec.homepage     = "https://github.com/simpleonly/toast"
-  spec.license      = { :type => "MIT", :file => "LICENSE" }
+  spec.license      = { :type => "MIT"}
   spec.author       = { "simpleonly" => "your-email@example.com" }
   spec.platform     = :ios, "13.0"
   spec.swift_version = "5.9"
